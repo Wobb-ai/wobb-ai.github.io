@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.706467f5.chunk.css",
-    "main.js": "/static/js/main.f579944c.chunk.js",
-    "main.js.map": "/static/js/main.f579944c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.87879fd5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.87879fd5.js.map",
+    "main.css": "/static/css/main.2b3803fd.chunk.css",
+    "main.js": "/static/js/main.bf45fbda.chunk.js",
+    "main.js.map": "/static/js/main.bf45fbda.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.64aa30ed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.64aa30ed.js.map",
     "static/css/2.d2de33a4.chunk.css": "/static/css/2.d2de33a4.chunk.css",
-    "static/js/2.941968dd.chunk.js": "/static/js/2.941968dd.chunk.js",
-    "static/js/2.941968dd.chunk.js.map": "/static/js/2.941968dd.chunk.js.map",
-    "static/js/3.25c46eb3.chunk.js": "/static/js/3.25c46eb3.chunk.js",
-    "static/js/3.25c46eb3.chunk.js.map": "/static/js/3.25c46eb3.chunk.js.map",
+    "static/js/2.40000007.chunk.js": "/static/js/2.40000007.chunk.js",
+    "static/js/2.40000007.chunk.js.map": "/static/js/2.40000007.chunk.js.map",
+    "static/js/3.672e5387.chunk.js": "/static/js/3.672e5387.chunk.js",
+    "static/js/3.672e5387.chunk.js.map": "/static/js/3.672e5387.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d2de33a4.chunk.css.map": "/static/css/2.d2de33a4.chunk.css.map",
-    "static/css/main.706467f5.chunk.css.map": "/static/css/main.706467f5.chunk.css.map",
-    "static/js/2.941968dd.chunk.js.LICENSE.txt": "/static/js/2.941968dd.chunk.js.LICENSE.txt",
+    "static/css/main.2b3803fd.chunk.css.map": "/static/css/main.2b3803fd.chunk.css.map",
+    "static/js/2.40000007.chunk.js.LICENSE.txt": "/static/js/2.40000007.chunk.js.LICENSE.txt",
     "static/media/home.scss": "/static/media/campaign-img.d13c76d4.svg",
     "static/media/campaign.4d51a40c.svg": "/static/media/campaign.4d51a40c.svg",
     "static/media/email.991f8ac3.svg": "/static/media/email.991f8ac3.svg",
@@ -30,10 +30,10 @@
     "static/media/user-icon.c82da7ba.svg": "/static/media/user-icon.c82da7ba.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87879fd5.js",
+    "static/js/runtime-main.64aa30ed.js",
     "static/css/2.d2de33a4.chunk.css",
-    "static/js/2.941968dd.chunk.js",
-    "static/css/main.706467f5.chunk.css",
-    "static/js/main.f579944c.chunk.js"
+    "static/js/2.40000007.chunk.js",
+    "static/css/main.2b3803fd.chunk.css",
+    "static/js/main.bf45fbda.chunk.js"
   ]
 }
