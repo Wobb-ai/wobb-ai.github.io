@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.572668b9.chunk.css",
+    "main.css": "/static/css/main.17f81e40.chunk.css",
     "main.js": "/static/js/main.594a7799.chunk.js",
     "main.js.map": "/static/js/main.594a7799.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1db4a1d6.js",
@@ -12,7 +12,7 @@
     "static/js/3.f01516d6.chunk.js.map": "/static/js/3.f01516d6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d2de33a4.chunk.css.map": "/static/css/2.d2de33a4.chunk.css.map",
-    "static/css/main.572668b9.chunk.css.map": "/static/css/main.572668b9.chunk.css.map",
+    "static/css/main.17f81e40.chunk.css.map": "/static/css/main.17f81e40.chunk.css.map",
     "static/js/2.7cd0d397.chunk.js.LICENSE.txt": "/static/js/2.7cd0d397.chunk.js.LICENSE.txt",
     "static/media/BrandImage.2a6611e3.webp": "/static/media/BrandImage.2a6611e3.webp",
     "static/media/CASIO.a60f88b4.svg": "/static/media/CASIO.a60f88b4.svg",
@@ -64,7 +64,7 @@
     "static/js/runtime-main.1db4a1d6.js",
     "static/css/2.d2de33a4.chunk.css",
     "static/js/2.7cd0d397.chunk.js",
-    "static/css/main.572668b9.chunk.css",
+    "static/css/main.17f81e40.chunk.css",
     "static/js/main.594a7799.chunk.js"
   ]
 }
