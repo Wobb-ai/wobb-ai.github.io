@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.b03ba94d.chunk.css",
-    "main.js": "/static/js/main.560fc84a.chunk.js",
-    "main.js.map": "/static/js/main.560fc84a.chunk.js.map",
+    "main.js": "/static/js/main.1209b809.chunk.js",
+    "main.js.map": "/static/js/main.1209b809.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46a1133a.js",
     "runtime-main.js.map": "/static/js/runtime-main.46a1133a.js.map",
     "static/css/2.1a08181d.chunk.css": "/static/css/2.1a08181d.chunk.css",
-    "static/js/2.26579ac2.chunk.js": "/static/js/2.26579ac2.chunk.js",
-    "static/js/2.26579ac2.chunk.js.map": "/static/js/2.26579ac2.chunk.js.map",
+    "static/js/2.81075ffd.chunk.js": "/static/js/2.81075ffd.chunk.js",
+    "static/js/2.81075ffd.chunk.js.map": "/static/js/2.81075ffd.chunk.js.map",
     "static/js/3.ba0a9328.chunk.js": "/static/js/3.ba0a9328.chunk.js",
     "static/js/3.ba0a9328.chunk.js.map": "/static/js/3.ba0a9328.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1a08181d.chunk.css.map": "/static/css/2.1a08181d.chunk.css.map",
     "static/css/main.b03ba94d.chunk.css.map": "/static/css/main.b03ba94d.chunk.css.map",
-    "static/js/2.26579ac2.chunk.js.LICENSE.txt": "/static/js/2.26579ac2.chunk.js.LICENSE.txt",
+    "static/js/2.81075ffd.chunk.js.LICENSE.txt": "/static/js/2.81075ffd.chunk.js.LICENSE.txt",
     "static/media/CASIO.a60f88b4.svg": "/static/media/CASIO.a60f88b4.svg",
     "static/media/Campaign Icon.5fb2bde0.svg": "/static/media/Campaign Icon.5fb2bde0.svg",
     "static/media/GetInfluencercampaigns.f375a7ea.svg": "/static/media/GetInfluencercampaigns.f375a7ea.svg",
@@ -62,8 +62,8 @@
   "entrypoints": [
     "static/js/runtime-main.46a1133a.js",
     "static/css/2.1a08181d.chunk.css",
-    "static/js/2.26579ac2.chunk.js",
+    "static/js/2.81075ffd.chunk.js",
     "static/css/main.b03ba94d.chunk.css",
-    "static/js/main.560fc84a.chunk.js"
+    "static/js/main.1209b809.chunk.js"
   ]
 }
