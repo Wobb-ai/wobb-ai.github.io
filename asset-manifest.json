@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.400aa62a.chunk.css",
-    "main.js": "/static/js/main.0a6ff744.chunk.js",
-    "main.js.map": "/static/js/main.0a6ff744.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.110bb80e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.110bb80e.js.map",
+    "main.css": "/static/css/main.b03ba94d.chunk.css",
+    "main.js": "/static/js/main.7c067f52.chunk.js",
+    "main.js.map": "/static/js/main.7c067f52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1617caa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1617caa.js.map",
     "static/css/2.1a08181d.chunk.css": "/static/css/2.1a08181d.chunk.css",
-    "static/js/2.73c94fc2.chunk.js": "/static/js/2.73c94fc2.chunk.js",
-    "static/js/2.73c94fc2.chunk.js.map": "/static/js/2.73c94fc2.chunk.js.map",
-    "static/js/3.c1574154.chunk.js": "/static/js/3.c1574154.chunk.js",
-    "static/js/3.c1574154.chunk.js.map": "/static/js/3.c1574154.chunk.js.map",
+    "static/js/2.03479fee.chunk.js": "/static/js/2.03479fee.chunk.js",
+    "static/js/2.03479fee.chunk.js.map": "/static/js/2.03479fee.chunk.js.map",
+    "static/js/3.4c54e115.chunk.js": "/static/js/3.4c54e115.chunk.js",
+    "static/js/3.4c54e115.chunk.js.map": "/static/js/3.4c54e115.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1a08181d.chunk.css.map": "/static/css/2.1a08181d.chunk.css.map",
-    "static/css/main.400aa62a.chunk.css.map": "/static/css/main.400aa62a.chunk.css.map",
-    "static/js/2.73c94fc2.chunk.js.LICENSE.txt": "/static/js/2.73c94fc2.chunk.js.LICENSE.txt",
+    "static/css/main.b03ba94d.chunk.css.map": "/static/css/main.b03ba94d.chunk.css.map",
+    "static/js/2.03479fee.chunk.js.LICENSE.txt": "/static/js/2.03479fee.chunk.js.LICENSE.txt",
     "static/media/CASIO.a60f88b4.svg": "/static/media/CASIO.a60f88b4.svg",
     "static/media/Campaign Icon.5fb2bde0.svg": "/static/media/Campaign Icon.5fb2bde0.svg",
     "static/media/GetInfluencercampaigns.f375a7ea.svg": "/static/media/GetInfluencercampaigns.f375a7ea.svg",
@@ -60,10 +60,10 @@
     "static/media/yamaha.003069e4.svg": "/static/media/yamaha.003069e4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.110bb80e.js",
+    "static/js/runtime-main.b1617caa.js",
     "static/css/2.1a08181d.chunk.css",
-    "static/js/2.73c94fc2.chunk.js",
-    "static/css/main.400aa62a.chunk.css",
-    "static/js/main.0a6ff744.chunk.js"
+    "static/js/2.03479fee.chunk.js",
+    "static/css/main.b03ba94d.chunk.css",
+    "static/js/main.7c067f52.chunk.js"
   ]
 }
