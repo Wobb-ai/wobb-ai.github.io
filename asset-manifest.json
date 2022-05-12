@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b4c7c3a.chunk.css",
-    "main.js": "/static/js/main.892316f8.chunk.js",
+    "main.css": "/static/css/main.89c5e25f.chunk.css",
+    "main.js": "/static/js/main.40c6dfef.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.485340fd.js",
     "static/css/2.b68550c2.chunk.css": "/static/css/2.b68550c2.chunk.css",
-    "static/js/2.7e264858.chunk.js": "/static/js/2.7e264858.chunk.js",
+    "static/js/2.2e7eeee8.chunk.js": "/static/js/2.2e7eeee8.chunk.js",
     "static/js/3.4c665ed7.chunk.js": "/static/js/3.4c665ed7.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.7e264858.chunk.js.LICENSE.txt": "/static/js/2.7e264858.chunk.js.LICENSE.txt",
+    "static/js/2.2e7eeee8.chunk.js.LICENSE.txt": "/static/js/2.2e7eeee8.chunk.js.LICENSE.txt",
     "static/media/CASIO.a60f88b4.svg": "/static/media/CASIO.a60f88b4.svg",
     "static/media/Campaign Icon.5fb2bde0.svg": "/static/media/Campaign Icon.5fb2bde0.svg",
     "static/media/GetInfluencercampaigns.f375a7ea.svg": "/static/media/GetInfluencercampaigns.f375a7ea.svg",
@@ -55,8 +55,8 @@
   "entrypoints": [
     "static/js/runtime-main.485340fd.js",
     "static/css/2.b68550c2.chunk.css",
-    "static/js/2.7e264858.chunk.js",
-    "static/css/main.0b4c7c3a.chunk.css",
-    "static/js/main.892316f8.chunk.js"
+    "static/js/2.2e7eeee8.chunk.js",
+    "static/css/main.89c5e25f.chunk.css",
+    "static/js/main.40c6dfef.chunk.js"
   ]
 }
